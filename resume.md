@@ -13,10 +13,6 @@ Nairobi, Kenya.
 * Sensitive to customer needs as well as excellent interpersonal skills.
 * Open to learn new concepts in addition to being a very fast learner.
 
-### SUMMARY OF SKILLS
-* Significant work experience with programming languages, such as, PHP, JavaScript Technologies, HTML5, CSS3, Java, C#, VB.NET, NodeJS, Python and C++; database technologies, such as, MS Access, MySQL and Oracle; operating systems, such as, Windows and Linux Ubuntu Server.
-
-
 ### KEY PROJECTS I HAVE UNDERTAKEN
 #### AEA Limited
 **I Developed I.L.M.S**\
@@ -96,12 +92,12 @@ AEA Limited\
 eayara@aealimited.com\
 +254711782435
 
-**Patrick Kanyi Wamuyu, Ph.D**
+**Patrick Kanyi Wamuyu, Ph.D**\
 *Assistant Professor of Information Technology School of Science and Technology United States International University - Africa*\
 pwamuyu@usiu.ac.ke\
 +254203606166, +254203606100, +254722309076
 
-**Mayieka Jared Maranga**
+**Mayieka Jared Maranga**\
 *Head of Department of Information Communication Technology and Lecturer Africa International University*\
 jared.mayieka@aiu.ac.ke\
 +254724352111
