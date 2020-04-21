@@ -1,8 +1,11 @@
 # GABRIEL MWENDWA MUTISYA
 ### CONTACT
 gabrielmwendwa@gmail.com
+
 +254710767847
+
 P.O. BOX 5262 - 00506
+
 Nairobi, Kenya.
 
 ### SUMMARY OF SKILLS
