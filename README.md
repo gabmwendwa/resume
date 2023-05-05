@@ -86,11 +86,11 @@ The Fundamentals of Digital Marketing.
 * Traveling.
 
 ### References
-**Erick Ayara**\
+**Adar Zephania**\
 *Lead Software Developer*\
-AEA Limited\
-eayara@aealimited.com\
-+254711782435
+Masterspace Solutions Limited\
+zeph@masterspaceltd.co.ke\
++254701411321
 
 **Patrick Kanyi Wamuyu, Ph.D**\
 *Assistant Professor of Information Technology School of Science and Technology United States International University - Africa*\
