@@ -57,7 +57,7 @@ Bachelor of Science in Applied Computer Technology: Distributed Systems and Mobi
 * Requirement gathering, system analysis and design systems architecture.
 * Project planning, execution and management.
 * Design, development, implementation, testing and documentation of web applications:
-  ** Implementing a hybrid architecture between the cloud and the local data centre for Lewa Conservancy’s Livestock Management System; integrating with weight capture technology for real-time readings, recording and generating reports.
+  * Implementing a hybrid architecture between the cloud and the local data centre for Lewa Conservancy’s Livestock Management System; integrating with weight capture technology for real-time readings, recording and generating reports.
   ** A custom Customer Relationship Management system with inventory management capability for the company.
 * Front-end with HTML5, CSS3, JavaScript, jQuery and Bootstrap.
 * Back-end with NodeJS and Django/Python.
