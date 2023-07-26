@@ -58,7 +58,7 @@ Bachelor of Science in Applied Computer Technology: Distributed Systems and Mobi
 * Project planning, execution and management.
 * Design, development, implementation, testing and documentation of web applications:
   * Implementing a hybrid architecture between the cloud and the local data centre for Lewa Conservancy’s Livestock Management System; integrating with weight capture technology for real-time readings, recording and generating reports.
-  ** A custom Customer Relationship Management system with inventory management capability for the company.
+  * A custom Customer Relationship Management system with inventory management capability for the company.
 * Front-end with HTML5, CSS3, JavaScript, jQuery and Bootstrap.
 * Back-end with NodeJS and Django/Python.
 * Relational database management using MySQL.
@@ -66,8 +66,8 @@ Bachelor of Science in Applied Computer Technology: Distributed Systems and Mobi
 * Employing and maintaining cloud components that enable access, ensure security and maintain cost-effectiveness.
 * Regularly evaluating cloud applications, hardware, and software.
 * Design, development, implementation, testing and documentation of mobile applications:
-  ** AEA Store prototype. M-commerce platform for selling the company’s products and services.
-  ** An Android mobile weighbridge application designed and developed to capture and store weight data of heavy commercial vehicles, both when online and/or offline, in the various clusters across the country for KeNHA.
+  * AEA Store prototype. M-commerce platform for selling the company’s products and services.
+  * An Android mobile weighbridge application designed and developed to capture and store weight data of heavy commercial vehicles, both when online and/or offline, in the various clusters across the country for KeNHA.
 * Mobile development with Flutter/Dart; Android development with Kotlin.
 * Successfully integrating REST API.
 * Successfully integrating third-party APIs, such as Firebase Analytics, Firebase Crashlytics, Firebase Cloud Messaging, Google Maps and M-Pesa Payment.
