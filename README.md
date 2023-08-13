@@ -6,6 +6,7 @@ P.O. BOX 5262 - 00506,\
 Nairobi, Kenya.
 
 ### CAREER PROFILE SUMMARY
+With a Bachelor of Science in Applied Computer Technology, I specialize as a Software Engineer with a range of skills and strategic thinking, I possess strong abilities in analyzing development issues, creating system specifications and standards, communicating with users and the team to identify system requirements, conducting systems analysis, and developing solutions to address any challenges faced – adopting the software development lifecycle. I have extensive knowledge of different programming languages, software technologies, and database management, and I am adept at problem-solving for organizational success. Moreover, I have a proven track record of managing responsibilities effectively and can work efficiently in a fast-paced and high-pressure environment. Finally, I developed and deployed dynamic and diverse responsive web applications and mobile applications (Android & iOS) for organizations such as AEA Limited, Sungusoft Solutions, Masterspace Solutions Limited, Kajaga Media Limited and Kenya Medical Research Institute (KEMRI).
 
 ### EDUCATION
 #### United States International University - Africa
